@@ -1,0 +1,3 @@
+[submodule "deviceSDK"]
+	path = deviceSDK
+	url = https://github.com/MiraboxSpace/StreamDock-Device-SDK.git
